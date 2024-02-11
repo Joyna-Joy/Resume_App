@@ -11,7 +11,7 @@ app.use(express.json())
 app.use(cors())
 
 //connecting to monngodb
-mongoose.connect("mongodb+srv://Joyna-Joy-24:Joyna24joy@cluster0.gj0szp5.mongodb.net/resumedb?retryWrites=true&w=majority",
+mongoose.connect("mongodb+srv://suhaila:suhaila273@cluster0.azy349s.mongodb.net/resumeDb?retryWrites=true&w=majority",
 {useNewUrlParser:true}
 )
 
